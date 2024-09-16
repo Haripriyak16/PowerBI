@@ -10,7 +10,7 @@ This folder contains various Power BI reports that demonstrate the power of data
 - **Data Analysis:** See how different metrics and KPIs are analyzed to provide actionable insights.
 - **Visualization Techniques:** Learn from the various visualization techniques employed to represent complex data in a user-friendly manner.
 
-Here, you'll find several Power BI reports showcasing various data analyses and dashboards. These reports include:
+Here, you'll find several Power BI reports showcasing various data analysis dashboards. These reports include:
 
 - **Bank Loan Report**
 - **Blinkit App Dashboard**
