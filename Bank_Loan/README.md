@@ -131,7 +131,11 @@ To assess the performance of our lending operations through comprehensive Key Pe
 To provide a hierarchical view of how home ownership impacts loan applications and disbursements.
 
 ![bank image 1](Bank_dashboard_image_1.png)
+
+
 ![bank image 2](Bank_dashboard_image_2.png)
+
+
 ![bank image 3](Bank_dashboard_image_3.png)
 
 # Bank Loan SQL Query
