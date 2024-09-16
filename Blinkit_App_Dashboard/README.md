@@ -14,7 +14,7 @@ This project involves a thorough analysis of sales performance, customer satisfa
 - **Sales by Outlet Location**: Funnel map
 - **All Metrics by Outlet Type**: Matrix
 
-![Blinkit1](Blinkit App Dashboard/Blinkit_Dashboard_Image.png)
+![Blinkit1](Blinkit_Dashboard_Image.png)
 
 ## Steps
 
