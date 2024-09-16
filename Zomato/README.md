@@ -35,7 +35,7 @@ Users can interact with this page by selecting different slicers (e.g., by sales
 
 ### Screenshots
 
-![Page 1 Screenshot](path/to/screenshot1.png)
+![Page 1 Screenshot](Zomato_image2.png)
 
 ---
 
@@ -65,7 +65,7 @@ Users can monitor KPIs to get an instant overview of user activity. They can exp
 
 ### Screenshots
 
-![Page 2 Screenshot](path/to/screenshot2.png)
+![Page 2 Screenshot](Zomato_image3.png)
 
 ---
 
@@ -92,8 +92,7 @@ Users can explore the city-level performance data to analyze how different citie
 
 ### Screenshots
 
-![Page 3 Screenshot](path/to/screenshot3.png)
-
+![Page 3 Screenshot](Zomato_image4.png)
 ---
 
 ## Top N Filters Implementation
