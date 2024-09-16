@@ -16,6 +16,9 @@ Calculating the average interest rate across all loans, MTD, and monitoring the 
 ### Average Debt-to-Income Ratio (DTI)
 Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
+![bank image 1](Bank_dashboard_image_1.png)
+
+
 ### Good Loan vs. Bad Loan KPIs
 
 **Good Loan Metrics:**
@@ -30,8 +33,16 @@ Evaluating the average DTI for our borrowers helps us gauge their financial heal
 - Bad Loan Funded Amount
 - Bad Loan Total Received Amount
 
+  
+
+![bank image 2](Bank_dashboard_image_2.png)
+
+
+
 ### Loan Status Grid View
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
+
+![bank image 3](Bank_dashboard_image_3.png)
 
 ### Charts and Visualizations
 
@@ -130,13 +141,8 @@ To assess the performance of our lending operations through comprehensive Key Pe
 **Home Ownership Analysis (Tree Map):**  
 To provide a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-![bank image 1](Bank_dashboard_image_1.png)
 
 
-![bank image 2](Bank_dashboard_image_2.png)
-
-
-![bank image 3](Bank_dashboard_image_3.png)
 
 # Bank Loan SQL Query
 
