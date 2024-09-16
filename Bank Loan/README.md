@@ -130,9 +130,6 @@ To assess the performance of our lending operations through comprehensive Key Pe
 **Home Ownership Analysis (Tree Map):**  
 To provide a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-![bank_dashboard1](Bank Loan/Bank_dashboard_image_1.png)
-![bank_dashboard2](Bank Loan/Bank_dashboard_image_2.png)
-![bank_dashboard3](Bank Loan/Bank_dashboard_image_3.png)
 
 # Bank Loan SQL Query
 
